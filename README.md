@@ -1,3 +1,6 @@
+# notes
+- [ Client ] <----> [ You application graphql server ] <--------> [ Your Prisma Server on heroku ] <------> [ Your database ]
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
