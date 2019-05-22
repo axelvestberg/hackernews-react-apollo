@@ -1,6 +1,0 @@
-endpoint: https://hnews-react-aaec7e6386.herokuapp.com/hnews-react-server/dev
-datamodel: datamodel.prisma
-
-generate:
-  - generator: javascript-client
-    output: ./generated/prisma-client/
