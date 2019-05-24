@@ -16,7 +16,7 @@ import { getMainDefinition } from 'apollo-utilities'
 import { AUTH_TOKEN } from './constants'
 
 const httpLink = createHttpLink({
-  uri: 'http://localhost:4000'
+  uri: '/'
 })
 
 const authLink = setContext((_, { headers }) => {
