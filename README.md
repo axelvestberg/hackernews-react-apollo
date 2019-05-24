@@ -4,3 +4,5 @@
 # TODO
 - Write readme explaining the setup of this project
 - See if it's possible to deploy both front end and backend as the same heroku project
+- Change name
+- Rebuild design with bootstrap or semantic-ui
