@@ -1,5 +1,5 @@
 # notes
-- [ Client ] <----> [ You application graphql server ] <--------> [ Your Prisma Server on heroku ] <------> [ Your database ]
+- [ Client ] <----> [ You application graphql server ] <----> [ Your Prisma Server on heroku ] <----> [ Your database ]
 
 # TODO
 - Write readme explaining the setup of this project
@@ -11,3 +11,5 @@
 - Implement infinite scrolling 
 - Add feature downvote
 - Add clickable links routing to it
+- Write simple unit tests and smoke test components /w jest-enzyme
+- Use storybook for doing presentational components
